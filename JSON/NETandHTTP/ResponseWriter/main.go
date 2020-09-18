@@ -5,6 +5,8 @@ import (
 	"net/http"
 )
 
+// run main.go and go to "localhost:8080" to see result
+
 type Sensei struct {
 	Firstname string
 	Lastname  string
